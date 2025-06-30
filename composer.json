@@ -1,0 +1,21 @@
+{
+    "name": "pahlevi-mit/ip-geolocation",
+	"description": "Geolocation IP Detection.",
+	"require": {
+		"php": ">=8.1"
+	},
+	"type": "library",
+    "autoload": {
+        "psr-4": {
+            "PahleviMit\\IPGeolocation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Reza Pahlevi",
+            "email": "58584044+pahlevi-dev@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
